@@ -13,7 +13,7 @@ Clase moviendoCeros: Pasamos los ceros al final de un Array.
 
 Clase Main: que ejecuta todas las clases.
 Lo único que hay que hacer es ejecutar la clase Main, 
-(me habría gustado usar un switch, para elegir entre una u otra clase pero por tiempo no ha podido ser).
+
 El código está comentado para eliminar dudas en su funcionamiento.
 
 
