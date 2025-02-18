@@ -4,6 +4,7 @@ Nombre del proyecto
 Prueba Técnica para memorandum.
 
 El proyecto consta de 3 Ejercicios que he dividido en 3 clases:
+
 Clase calculoIMC :Calculamos el imc de una persona .
 
 Clase Suma Digitos: Sumamos los digitos de un numero.
